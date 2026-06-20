@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Armenian Ticket Quiz",
+  "description": "An interactive 3D ticket-drawing application to practice Spanish with Armenian translations and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
